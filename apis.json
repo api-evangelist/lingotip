@@ -1,0 +1,51 @@
+{
+    "name": "lingotip",
+    "description": "LingoTip translation services ranges from document translations to website and software localization with specialization in internet localization solutions",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/901-lingotip.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "human",
+        "localization",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lingotip\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "lingotip",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/901-lingotip.jpg",
+            "humanURL": "http:\/\/www.lingotip.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lingotip-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lingotip-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lingotip"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/lingotip"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.lingotip.com\/"
+        }
+    ]
+}
